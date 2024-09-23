@@ -11,7 +11,7 @@ profile:
   more_info: >
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 Hi! I am a final-year PhD student at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) advised by [Prof. Florent Krzakala](https://florentkrzakala.com]) working at the intersection of machine learning, statistical physics, and high-dimensional statistics. I am particularly interested in understanding the role that <u> data structure</u> plays in the success of learning algorithms.
 
