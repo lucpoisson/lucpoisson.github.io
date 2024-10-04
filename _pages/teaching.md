@@ -24,6 +24,6 @@ Second year BSc course in Electrical Engineering taught in French on the basics 
 Doctoral course in the Physics and Engineering school on the connection between statistical physics and learning. The course material is available on the [Github repository](https://github.com/IdePHICS/EPFLDoctoralLecture2023) and covers a broad range of topics in statistical physics of disordered systems ranging from the fundamental tools (replica and cavity method) to their application in learning problems (inference on graph, neural networks).
 
 ### PHYS-314: "Physique Quantique II" 
-##### Spring 2022 - [Link to course webpage](https://edu.epfl.ch/coursebook/fr/quantum-physics-ii-PHYS-314) 
+##### (Spring 2022) - [Link to course webpage](https://edu.epfl.ch/coursebook/fr/quantum-physics-ii-PHYS-314) 
 
 Third year BSc course in Physics taught in French focused on many-body quantum systems and group theory for physicists.
