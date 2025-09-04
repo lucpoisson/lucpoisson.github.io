@@ -19,7 +19,7 @@ I am interested in understanding <u> why </u> modern deep learning systems are s
 
 Hi! I am a final-year PhD student at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) advised by [Florent Krzakala](https://florentkrzakala.com]).
 
-I study the theoretical foundations of modern deep learning systems to understand why they are so effective in practice. My research investigates how general-purpose training methods (e.g., SGD) exploit low-dimensional latent structures in high-dimensional data, leveraging tools from statistical physics and high-dimensional statistics.
+My research investigates the theoretical foundations of modern deep learning systems to understand why they are so effective in practice.  I explore how general-purpose training methods (e.g., SGD) exploit low-dimensional latent structures in high-dimensional data, leveraging tools from statistical physics and high-dimensional statistics.
 
 Previously, I worked as a research intern at [Aqemia](https://www.aqemia.com/) and I took part in an [International Msc](http://www.pcs.polito.it/educational_tracks/international_track) program in Theoretical Physics organized by: [ICTP](https://www.ictp.it), [Paris Cité](https://u-paris.fr/en/), [Politecnico di Torino](https://www.polito.it/en), [SISSA](https://www.sissa.it), [Sorbonne](https://www.sorbonne-universite.fr/en), and [Paris Saclay](https://www.universite-paris-saclay.fr/en).
 
