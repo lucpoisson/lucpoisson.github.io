@@ -13,9 +13,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<!-- Hi! I am a final-year PhD student at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) advised by [Florent Krzakala](https://florentkrzakala.com]) working at the intersection of machine learning, statistical physics, and high-dimensional statistics. 
-
-I am interested in understanding <u> why </u> modern deep learning systems are so effective in practice by exploring their theoretical foundations. My research focuses on the role of <u> low-dimensional latent structures </u> within high-dimensional data in enabling efficient learning. I investigate how general-purpose training methods (e.g., SGD) exploit such structures to overcome the curse of dimensionality, using models that are analytically tractable yet rich enough to capture key phenomena observed in practice.   -->
 
 Hi! I am a final-year PhD student at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) advised by [Florent Krzakala](https://florentkrzakala.com]).
 

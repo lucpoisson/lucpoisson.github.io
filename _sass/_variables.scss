@@ -16,8 +16,10 @@ $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
+$purple-color: #b91c1c !default; // Primary dark red
 $light-purple-color: lighten($purple-color, 25%);
+$deep-orange-color: #ea580c !default; // Deep orange secondary
+$gold-color: #fbbf24 !default; // Gold highlight
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
@@ -27,8 +29,8 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$white-color: #f3f4f6 !default; // Light gray text
+$black-color: #18181b !default; // Very dark background
 
 // Theme colors
 
