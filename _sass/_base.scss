@@ -1,3 +1,15 @@
+// Publication thumbnails
+.pub-thumbnail {
+  width: 130px;
+  height: auto;
+  margin-bottom: 0.5em;
+  margin-right: 1em;
+  border-radius: 6px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+/*******************************************************************************
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
