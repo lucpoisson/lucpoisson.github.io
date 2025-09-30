@@ -1,12 +1,13 @@
 // Publication thumbnails
 .pub-thumbnail {
-  width: 130px;
-  height: auto;
+  width: 130px;  /* Middle size between 130px and 180px */
+  height: 110px; /* Middle size between 100px and 140px */
   margin-bottom: 0.5em;
   margin-right: 1em;
   border-radius: 6px;
-  object-fit: cover;
+  object-fit: cover;  /* Crops/scales to fit while maintaining aspect ratio */
   box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  background-color: #f8f9fa;  /* Fallback background */
 }
 
 /*******************************************************************************
