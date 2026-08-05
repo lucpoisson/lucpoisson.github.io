@@ -31,9 +31,14 @@
         {% assign thumb_class = 'pub-thumbnail pub-thumbnail-large' %}
       {% endif %}
       {% if entry.thumbnail %}
-        <img class="preview z-depth-1 rounded {{ thumb_class }}" src="/assets/img/{{ entry.thumbnail }}" alt="thumbnail for publication {{ entry.title }}" loading="lazy" />
+        <img
+          class="preview z-depth-1 rounded {{ thumb_class }}"
+          src="/assets/img/{{ entry.thumbnail }}"
+          alt="thumbnail for publication {{ entry.title }}"
+          loading="lazy"
+        >
       {% else %}
-        <img class="preview z-depth-1 rounded {{ thumb_class }}" src="/assets/img/1.jpg" alt="thumbnail" loading="lazy" />
+        <img class="preview z-depth-1 rounded {{ thumb_class }}" src="/assets/img/1.jpg" alt="thumbnail" loading="lazy">
       {% endif %}
     </div>
   {% endif %}

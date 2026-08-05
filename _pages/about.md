@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cmsa.fas.harvard.edu/'> Center of Mathematical Sciences and Applications, Harvard University </a>. 
+subtitle: <a href='https://cmsa.fas.harvard.edu/'> Center of Mathematical Sciences and Applications, Harvard University </a>.
 
 profile:
   align: right
@@ -18,6 +18,6 @@ Hi! I am a postdoctoral research fellow at the [Harvard Center for Mathematical 
 
 My research investigates the theoretical foundations of modern deep learning systems, with the goal of understanding why they are so effective in practice. I study how general-purpose training methods exploit the low-dimensional latent structure hidden in high-dimensional data, drawing on tools from statistical physics and high-dimensional statistics. More recently, I have been working on topics related to continual learning: how models keep acquiring new knowledge over time without discarding what they have already learned.
 
-During my PhD I spent a few months as a research engineer intern at [Aqemia](https://www.aqemia.com/), working on generative algorithms for structure-based drug discovery. Earlier, I took part in an [International MSc](http://www.pcs.polito.it/educational_tracks/international_track) program in Theoretical Physics organized by: [ICTP](https://www.ictp.it), [Paris Cité](https://u-paris.fr/en/), [Politecnico di Torino](https://www.polito.it/en), [SISSA](https://www.sissa.it), [Sorbonne](https://www.sorbonne-universite.fr/en), and [Paris Saclay](https://www.universite-paris-saclay.fr/en).
+During my PhD I spent a few months as a research engineer intern at [Aqemia](https://www.aqemia.com/), working on generative algorithms for structure-based drug discovery. Earlier, I took part in an [International MSc](http://www.pcs.polito.it/educational_tracks/international_track) program in Theoretical Physics delocalized in Paris, Trieste, and Turin.
 
 If you want to know more about my research, the list of my publications is [here](/publications).
