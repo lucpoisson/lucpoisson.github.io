@@ -251,7 +251,10 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    // The photo is square, so its height equals its width. Keep it a little
+    // shorter than the paragraph it floats beside, otherwise the overhang
+    // catches the first lines of the following paragraph.
+    width: 25%;
 
     .address {
       p {
