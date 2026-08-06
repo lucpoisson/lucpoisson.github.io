@@ -212,6 +212,21 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  // Keep the photo square whatever the source aspect ratio, cropping from the
+  // centre. Without this a portrait image renders as a tall rectangle, or as
+  // an ellipse when image_circular is on.
+  img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  figure {
+    margin: 0;
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
@@ -225,11 +240,13 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 @media (min-width: 576px) {
