@@ -244,6 +244,12 @@ ul.task-list input[type="checkbox"] {
   margin-bottom: 1rem;
 }
 
+// Paragraphs marked .clear-float always start below the floated photo, so the
+// photo can never overhang into them however the copy above changes length.
+.clear-float {
+  clear: both;
+}
+
 .profile.float-left {
   margin-right: 1.5rem;
   margin-bottom: 1rem;
@@ -253,9 +259,10 @@ ul.task-list input[type="checkbox"] {
   .profile {
     // The photo is square, so its height equals its width. Keep it clearly
     // shorter than the paragraph it floats beside, otherwise the overhang
-    // catches the first lines of the following paragraph. At 20% there is
-    // more than one line of slack, so editing the copy will not re-trigger it.
-    width: 20%;
+    // catches the first lines of the following paragraph. 23% is close to the
+    // ceiling: the paragraph beside it is about 224px tall, so anything above
+    // ~24% overhangs into the next one.
+    width: 23%;
 
     .address {
       p {
