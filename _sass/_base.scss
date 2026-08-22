@@ -251,10 +251,11 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    // The photo is square, so its height equals its width. Keep it a little
+    // The photo is square, so its height equals its width. Keep it clearly
     // shorter than the paragraph it floats beside, otherwise the overhang
-    // catches the first lines of the following paragraph.
-    width: 25%;
+    // catches the first lines of the following paragraph. At 20% there is
+    // more than one line of slack, so editing the copy will not re-trigger it.
+    width: 20%;
 
     .address {
       p {
